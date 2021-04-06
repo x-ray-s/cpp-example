@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "cstddef": "cpp",
+        "memory": "cpp",
+        "ostream": "cpp",
+        "xstring": "cpp",
+        "istream": "cpp",
+        "string": "cpp",
+        "ios": "cpp",
+        "cmath": "cpp"
+    }
+}
