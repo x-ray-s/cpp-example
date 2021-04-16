@@ -8,6 +8,7 @@
         "istream": "cpp",
         "string": "cpp",
         "ios": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "xlocale": "cpp"
     }
 }
