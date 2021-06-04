@@ -9,6 +9,8 @@
         "string": "cpp",
         "ios": "cpp",
         "cmath": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "random": "cpp",
+        "numeric": "cpp"
     }
 }
